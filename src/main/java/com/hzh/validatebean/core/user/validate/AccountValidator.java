@@ -1,6 +1,6 @@
 package com.hzh.validatebean.core.user.validate;
 
-import com.hzh.validatebean.core.user.bo.User;
+import com.hzh.validatebean.core.user.dto.User;
 
 import javax.validation.ConstraintValidator;
 import javax.validation.ConstraintValidatorContext;

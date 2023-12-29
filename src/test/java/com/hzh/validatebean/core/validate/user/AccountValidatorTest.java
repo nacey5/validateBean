@@ -1,6 +1,6 @@
 package com.hzh.validatebean.core.validate.user;
 
-import com.hzh.validatebean.core.user.bo.User;
+import com.hzh.validatebean.core.user.dto.User;
 import com.hzh.validatebean.core.user.validate.AccountValidator;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;

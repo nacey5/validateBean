@@ -11,7 +11,7 @@ import com.hzh.validatebean.core.user.dto.User;
  **/
 public class UserConvert {
 
-    public static User boToDto(com.hzh.validatebean.core.user.bo.User user) {
+    public static User boToDto(com.hzh.validatebean.core.user.dto.User user) {
         User ret = new User();
         ret.setRole("default");
         ret.setUserName(user.getUserName());
